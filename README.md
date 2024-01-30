@@ -1,1 +1,1 @@
-Trang web thương mại điện tử dùng Angular và Spring Boot
+This e-commerce website is a great example of how Angular and Spring Boot can be used to create a powerful and scalable online store. The website has a wide range of features and benefits that make it a great choice for businesses of all sizes.
