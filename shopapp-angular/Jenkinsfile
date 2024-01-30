@@ -1,0 +1,2 @@
+@Library("cicd")_
+frontend()
